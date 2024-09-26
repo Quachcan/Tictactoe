@@ -1,0 +1,14 @@
+/Applications/Document/Learning Unity/Tictactoe/bin/Debug/net8.0/Tictactoe
+/Applications/Document/Learning Unity/Tictactoe/bin/Debug/net8.0/Tictactoe.deps.json
+/Applications/Document/Learning Unity/Tictactoe/bin/Debug/net8.0/Tictactoe.runtimeconfig.json
+/Applications/Document/Learning Unity/Tictactoe/bin/Debug/net8.0/Tictactoe.dll
+/Applications/Document/Learning Unity/Tictactoe/bin/Debug/net8.0/Tictactoe.pdb
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.AssemblyInfoInputs.cache
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.AssemblyInfo.cs
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.csproj.CoreCompileInputs.cache
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.dll
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/refint/Tictactoe.dll
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.pdb
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.genruntimeconfig.cache
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/ref/Tictactoe.dll
