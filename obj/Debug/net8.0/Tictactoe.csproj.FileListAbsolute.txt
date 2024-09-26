@@ -12,3 +12,4 @@
 /Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.pdb
 /Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.genruntimeconfig.cache
 /Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/ref/Tictactoe.dll
+/Applications/Document/Learning Unity/Tictactoe/obj/Debug/net8.0/Tictactoe.sourcelink.json
